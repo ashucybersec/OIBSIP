@@ -1,15 +1,15 @@
-# Task 1 - Basic Network Scanning with Nmap
+Task 1 - Basic Network Scanning with Nmap
 
-## Objective
+Objective
 Scan a public server (119.18.54.94) to identify open ports and running services.
 
-## Tools Used
+Tools Used
 - Nmap
 
-## Command Used
+Command Used
 ```
 nmap -sV 119.18.54.94
 ```
 
-## Findings
+Findings
 See the file `nmap_scan_results.txt` for detailed scan results.
