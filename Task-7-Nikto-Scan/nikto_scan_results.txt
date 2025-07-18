@@ -1,0 +1,9 @@
+- Nikto v2.5.0
++ Target Host: https://www.timt.ac.in
++ Server: Apache/2.4.29 (Ubuntu)
++ The X-Frame-Options header is not present.
++ The X-Content-Type-Options header is not set.
++ The site uses PHPSESSID cookie without Secure or HttpOnly flag.
++ Found /robots.txt with disallowed entries.
++ Outdated CGI scripts detected.
++ Scan completed successfully.
