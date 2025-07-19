@@ -1,0 +1,3 @@
+1	0.000000000	192.168.1.3	224.0.0.251	MDNS	103	Standard query 0x0004 PTR _googlecast._tcp.local, "QM" question PTR _233637DE._sub._googlecast._tcp.local, "QM" question
+...
+119.18.54.94	192.168.1.7	TLSv1.3	Application Data
